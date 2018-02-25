@@ -26,6 +26,6 @@ Wikipedia describes them as
 Types of Design Patterns
 -----------------
 
-* [Creational](#creational-design-patterns)
-* [Structural](#structural-design-patterns)
-* [Behavioral](#behavioral-design-patterns)
+* [Creational](Creational)
+* [Structural](Structural)
+* [Behavioral](Behavioral)
