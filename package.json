@@ -1,0 +1,26 @@
+{
+  "name": "design-pattern",
+  "version": "1.0.0",
+  "description": "Design Patterns in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshans1/design-pattern-js.git"
+  },
+  "author": "Rakshan Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rakshans1/design-pattern-js/issues"
+  },
+  "homepage": "https://github.com/rakshans1/design-pattern-js#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.18.2",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0"
+  }
+}
